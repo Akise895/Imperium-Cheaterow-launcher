@@ -1,2 +1,2 @@
 # Imperium-Cheaterow-launcher
-Launcher witch minecraft hacked client
+Launcher with a minecraft hacked client
